@@ -1,6 +1,6 @@
 package latihanpbo.latihan2;
 
-//acsess modifer (public, private, protected)
+//acsess modifier (public, private, protected)
 class Persegi{
     private int sisi;
 
