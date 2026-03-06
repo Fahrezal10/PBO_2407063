@@ -1,4 +1,4 @@
-package tugas.tugas2;
+package tugas.tugas_bangun_datar;
 
 public class BelahKetupat extends BangunDatar {
     private double d1, d2, sisi;

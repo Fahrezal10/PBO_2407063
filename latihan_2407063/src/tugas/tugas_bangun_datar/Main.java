@@ -1,4 +1,4 @@
-package tugas.tugas1;
+package tugas.tugas_bangun_datar;
 
 import java.util.Scanner;
 

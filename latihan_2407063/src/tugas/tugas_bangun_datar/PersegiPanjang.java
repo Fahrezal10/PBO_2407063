@@ -1,4 +1,4 @@
-package tugas.tugas1;
+package tugas.tugas_bangun_datar;
 
 public class PersegiPanjang extends BangunDatar {
     private double panjang, lebar;

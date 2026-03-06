@@ -1,4 +1,4 @@
-package tugas.tugas2;
+package tugas.tugas_bangun_datar;
 
 public class Segitiga extends BangunDatar {
     private double alas, tinggi;

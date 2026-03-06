@@ -1,10 +1,14 @@
-package tugas.tugas2;
+package latihanpbo.latihan4;
 
 public class Persegi extends BangunDatar {
     private double sisi;
 
     public Persegi(double sisi) {
         super("Persegi");
+        this.sisi = sisi;
+    }
+
+    public void setSisi(double sisi) {
         this.sisi = sisi;
     }
 
