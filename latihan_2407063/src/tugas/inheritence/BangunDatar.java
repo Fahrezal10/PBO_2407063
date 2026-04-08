@@ -1,8 +1,8 @@
 package tugas.inheritence;
 
 public class BangunDatar {
-    private double panjang;
-    private double lebar;
+    protected double panjang;
+    protected double lebar;
 
     public BangunDatar(double panjang, double lebar) {
         this.panjang = panjang;
@@ -18,6 +18,6 @@ public class BangunDatar {
     }
 
     public double hitungLuas() {
-        return this.panjang * this.lebar;
+        return panjang * lebar * 2;
     }
 }
