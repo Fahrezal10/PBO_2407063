@@ -1,14 +1,13 @@
 package tugas.Polymorphism;
 
 public class PersegiPanjang extends BangunDatar {
-    // Menggunakan constructor 2 parameter (Panjang dan Lebar)
     public PersegiPanjang(double panjang, double lebar) {
         super(panjang, lebar);
     }
 
     @Override
     public double hitungLuas() {
-        return getVarA() * getVarB(); // panjang * lebar
+        return getVarA() * getVarB();
     }
 
     @Override
