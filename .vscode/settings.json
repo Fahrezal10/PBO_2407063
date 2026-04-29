@@ -1,0 +1,7 @@
+{
+    "snyk.advanced.autoSelectOrganization": true,
+    "java.project.sourcePaths": [
+        "latihan_2407063\\src"
+    ],
+    "java.project.referencedLibraries": []
+}
